@@ -1,7 +1,7 @@
 # Run the code
 
 ```
-cd notes-app-react-js
+cd notes-app-reactjs
 npm install
 npm start
 ```
